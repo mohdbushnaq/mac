@@ -1,5 +1,5 @@
 # mac
-mac is a linux command that provide the vendor by entering the mac address of a network card.
+mac is a linux command that provide the vendor by entering the mac address of a network card, with a help of macvendors.com API
 
 To install:
 
